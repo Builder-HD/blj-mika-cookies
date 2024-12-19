@@ -89,12 +89,12 @@
                 <div class="col-md-6 recipe-step">
                     <h5>Step 1</h5>
                     <p>First mix butter until its soft.</p>
-                    <img src="Pictures/MixingButter.jpg" alt="Mixed Butter in a Plastic Bowl">
+                    <img src="01_RepetitionHTML_KW50/Pictures/MixingButter.jpg" alt="Mixed Butter in a Plastic Bowl">
                 </div>
                 <div class="col-md-6 recipe-step">
                     <h5>Step 2</h5>
                     <p>Next add a grain of salt and 225 grams of sugar.</p>
-                    <img src="Pictures/AddSugar.jpg" alt="Step 2 Photo">
+                    <img src="01_RepetitionHTML_KW50/Pictures/AddSugar.jpg" alt="Step 2 Photo">
                 </div>
                 <div class="col-md-6 recipe-step">
                     <h5>Step 3</h5>
@@ -103,22 +103,22 @@
                 <div class="col-md-6 recipe-step">
                     <h5>Step 4</h5>
                     <p>Now add the zest of one lemon and mix with the rest.</p>
-                    <img src="Pictures/LemonZest.jpg" alt="Step 4 Photo">
+                    <img src="01_RepetitionHTML_KW50/Pictures/LemonZest.jpg" alt="Step 4 Photo">
                 </div>
                 <div class="col-md-6 recipe-step">
                     <h5>Step 5</h5>
                     <p>Then mix in the flour until it starts to clump together.</p>
-                    <img src="Pictures/Flour.jpg" alt="Step 5 Photo">
+                    <img src="01_RepetitionHTML_KW50/Pictures/Flour.jpg" alt="Step 5 Photo">
                 </div>
                 <div class="col-md-6 recipe-step">
                     <h5>Step 6</h5>
                     <p>After that put the dough in the Refrigerator for around 2 Hours.</p>
-                    <img src="Pictures/Refrigerator.jpg" alt="Step 6 Photo">
+                    <img src="01_RepetitionHTML_KW50/Pictures/Refrigerator.jpg" alt="Step 6 Photo">
                 </div>
                 <div class="col-md-6 recipe-step">
                     <h5>Step 7</h5>
                     <p>Preheat the Oven to around 200 Degres Celcius.</p>
-                    <img src="Pictures/PreHeatTheOven.jpg" alt="Step 7 Photo">
+                    <img src="01_RepetitionHTML_KW50/Pictures/PreHeatTheOven.jpg" alt="Step 7 Photo">
                 </div>
                 <div class="col-md-6 recipe-step">
                     <h5>Step 8</h5>
@@ -127,23 +127,23 @@
                 <div class="col-md-6 recipe-step">
                     <h5>Step 9</h5>
                     <p>Now cut out the cookies.</p>
-                    <img src="Pictures/MakeForms.jpg" alt="Step 8 Photo">
+                    <img src="01_RepetitionHTML_KW50/Pictures/MakeForms.jpg" alt="Step 8 Photo">
                 </div>
                 <div class="col-md-6 recipe-step">
                     <h5>Step 10</h5>
                     <p>After that make the icing. For that mix one egg yellow with 1 teaspoon of milk.</p>
-                    <img src="Pictures/Milk.jpg" alt="Step 8 Photo">
+                    <img src="01_RepetitionHTML_KW50/Pictures/Milk.jpg" alt="Step 8 Photo">
                 </div>
                 <div class="col-md-6 recipe-step">
                     <h5>Step 12</h5>
                     <p>Then place the cutout cookies on a baking tray, brush them with the icing and place them in the preheated oven.
                        Leave them in there for around 10 minutes.</p>
-                    <img src="Pictures/PutThemOnAMetal.jpg" alt="Step 8 Photo">
+                    <img src="01_RepetitionHTML_KW50/Pictures/PutThemOnAMetal.jpg" alt="Step 8 Photo">
                 </div>
                 <div class="col-md-6 recipe-step">
                     <h5>Step 13</h5>
                     <p>After that they are finished.</p>
-                    <img src="Pictures/FinishedCookies.jpg" alt="Step 8 Photo">
+                    <img src="01_RepetitionHTML_KW50/Pictures/FinishedCookies.jpg" alt="Step 8 Photo">
                 </div>
             </div>
         </div>
